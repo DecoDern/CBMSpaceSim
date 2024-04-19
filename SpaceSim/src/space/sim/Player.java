@@ -1,5 +1,5 @@
 package space.sim;
-
+  
 public class Player 
 {
 	private Sonnensystem aktuellesSystem;
